@@ -1,0 +1,1 @@
+this is a hedphone company website and the figma file is available, i will be disecting each part of the file andt urn in to a pure html.
